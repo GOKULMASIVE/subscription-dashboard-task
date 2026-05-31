@@ -45,6 +45,19 @@ subscription-dashboard/
 - Node.js v18+
 - MongoDB (local or Atlas)
 
+### 1. Clone & install
+
+```bash
+git clone https://github.com/GOKULMASIVE/subscription-dashboard-task.git
+cd subscription-dashboard-task
+
+# Install server deps
+cd server && npm install
+
+# Install client deps
+cd ../client && npm install
+```
+
 ### 2. Configure environment
 
 ```bash
@@ -103,3 +116,9 @@ cd client && npm run dev
 - Responsive design with CSS Modules
 
 ---
+
+## Author
+
+**Gokul S**
+Email: sgokulsw06@gmail.com  
+GitHub: https://github.com/GOKULMASIVE

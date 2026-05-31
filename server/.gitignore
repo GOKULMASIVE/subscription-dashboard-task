@@ -12,6 +12,7 @@ client/build/
 server/node_modules/
 server/logs/
 server/uploads/
+package-lock.json
 
 # IDE
 .vscode/
